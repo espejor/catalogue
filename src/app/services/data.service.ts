@@ -18,21 +18,21 @@ export class DataService {
       subject: 'New event: Trip to Vegas',
       date: '9:32 AM',
       id: 0,
-      read: false
+      read: true
     },
     {
       fromName: 'Lauren Ruthford',
       subject: 'Long time no chat',
       date: '6:12 AM',
       id: 1,
-      read: false
+      read: true
     },
     {
       fromName: 'Jordan Firth',
       subject: 'Report Results',
       date: '4:55 AM',
       id: 2,
-      read: false
+      read: true
     },
     {
       fromName: 'Bill Thomas',
